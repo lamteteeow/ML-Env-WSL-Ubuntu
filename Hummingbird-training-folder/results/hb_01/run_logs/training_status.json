@@ -1,0 +1,65 @@
+{
+    "Hummingbird": {
+        "checkpoints": [
+            {
+                "steps": 999888,
+                "file_path": "results/hb_01/Hummingbird/Hummingbird-999888.onnx",
+                "reward": 16.70065382335867,
+                "creation_time": 1698624777.9041464,
+                "auxillary_file_paths": [
+                    "results/hb_01/Hummingbird/Hummingbird-999888.pt"
+                ]
+            },
+            {
+                "steps": 1499920,
+                "file_path": "results/hb_01/Hummingbird/Hummingbird-1499920.onnx",
+                "reward": 36.052313012736185,
+                "creation_time": 1698626568.4697773,
+                "auxillary_file_paths": [
+                    "results/hb_01/Hummingbird/Hummingbird-1499920.pt"
+                ]
+            },
+            {
+                "steps": 1999992,
+                "file_path": "results/hb_01/Hummingbird/Hummingbird-1999992.onnx",
+                "reward": null,
+                "creation_time": 1698629005.881168,
+                "auxillary_file_paths": [
+                    "results/hb_01/Hummingbird/Hummingbird-1999992.pt"
+                ]
+            },
+            {
+                "steps": 2499896,
+                "file_path": "results/hb_01/Hummingbird/Hummingbird-2499896.onnx",
+                "reward": null,
+                "creation_time": 1698631084.2120607,
+                "auxillary_file_paths": [
+                    "results/hb_01/Hummingbird/Hummingbird-2499896.pt"
+                ]
+            },
+            {
+                "steps": 2606688,
+                "file_path": "results/hb_01/Hummingbird/Hummingbird-2606688.onnx",
+                "reward": null,
+                "creation_time": 1698631575.7813187,
+                "auxillary_file_paths": [
+                    "results/hb_01/Hummingbird/Hummingbird-2606688.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 2606688,
+            "file_path": "results/hb_01/Hummingbird.onnx",
+            "reward": null,
+            "creation_time": 1698631575.7813187,
+            "auxillary_file_paths": [
+                "results/hb_01/Hummingbird/Hummingbird-2606688.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.0.0",
+        "torch_version": "1.13.1+rocm5.2"
+    }
+}
